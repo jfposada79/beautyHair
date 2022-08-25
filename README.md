@@ -1,6 +1,6 @@
 #👋, Proyect Nexter
 #### Landing Page SASS, Responsive
-![Landing Page SASS, Responsive](https://xlcomunicaciones.com/sassProyect3/Capture.JPG)
+![Landing Page SASS, Responsive](https://fernandoposada.tech/images/beautyHair.JPG)
 
 
 Skills: / HTML / CSS/ GRID
