@@ -1,4 +1,4 @@
-#👋, Proyect Nexter
+#👋, Proyect BEAUTYHAIR
 #### Landing Beauty Hair, Responsive
 ![Landing Page SASS, Responsive](https://fernandoposada.tech/images/beautyHair.JPG)
 
